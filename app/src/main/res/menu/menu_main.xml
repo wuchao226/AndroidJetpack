@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/btn_nav_home_press"
+        android:title="主页"
+        tools:ignore="HardcodedText"/>
+
+    <item
+        android:id="@+id/scoreFragment"
+        android:icon="@drawable/btn_nav_score_normal"
+        android:title="积分"
+        tools:ignore="HardcodedText"/>
+
+    <item
+        android:id="@+id/meFragment"
+        android:icon="@drawable/btn_nav_user_normal"
+        android:title="我"
+        tools:ignore="HardcodedText"/>
+</menu>
